@@ -1,17 +1,17 @@
 {
-  "name": "Darcula Solid",
+  "name": "Darcula Pitch Black",
   "dark": true,
-  "author": "Vecheslav Druzhbin",
-  "editorScheme": "/Darcula_Solid.xml",
+  "author": "Patrick Pichler",
+  "editorScheme": "/Darcula_Pitch_Black.xml",
   "ui": {
     "*": {
-      "background": "#252526",
-      "disabledBackground": "#252526",
+      "background": "#000000",
+      "disabledBackground": "#000000",
       "inactiveBackground": "#323335",
       "selectionBackground": "#37383a",
       "selectionInactiveBackground": "#37383a",
       "lightSelectionBackground": "#353638",
-      "lightSelectionInactiveBackground": "#252526",
+      "lightSelectionInactiveBackground": "#000000",
       "borderColor": "#3d3e40",
       "disabledBorderColor": "#3d3e40",
       "separatorForeground": "#3d3e40",
@@ -61,7 +61,7 @@
     "Tree": {
       "rowHeight": 20
     },
-    "ToolWindow.Header.inactiveBackground": "#252526",
+    "ToolWindow.Header.inactiveBackground": "#000000",
     "ToolWindow.HeaderTab": {
       "underlinedTabBackground": "#313234"
     },
@@ -109,7 +109,7 @@
       "Checkbox.Border.Default.Dark": "#3d3e40",
       "Checkbox.Focus.Wide.Dark": "#2651a2",
       "Checkbox.Background.Disabled.Dark": "#1f1f1f",
-      "Checkbox.Border.Disabled.Dark": "#252526"
+      "Checkbox.Border.Disabled.Dark": "#000000"
     }
   }
 }
